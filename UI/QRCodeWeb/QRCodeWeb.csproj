@@ -190,6 +190,8 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Images\buet_logo.jpg" />
     <Content Include="Images\Logos\hp.png" />
+    <Content Include="Images\QR-Code-Decoder.PNG" />
+    <Content Include="Images\QR-Code-Generator.PNG" />
     <Content Include="Images\QR_Codes\default_image.png" />
     <Content Include="Images\QR_Codes\img.bmp" />
     <Content Include="Images\QR_Codes\img.gif" />

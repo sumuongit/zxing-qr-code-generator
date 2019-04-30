@@ -48,6 +48,13 @@ namespace SecureQRCodeWeb
                 String fileName = fuUploadQRCode.PostedFile.FileName;
                 qrCodePath = Server.MapPath("~/Images/QR_Codes/" + fileName);
 
+                if(!File.Exists(qrCodePath))
+                {
+                    Bitmap bmp = new Bitmap(fuUploadQRCode.FileContent);
+                    bmp.Save(Server.MapPath("~/Images/QR_Codes/" + "img_ext.jpg"), System.Drawing.Imaging.ImageFormat.Jpeg);
+                    qrCodePath = Server.MapPath("~/Images/QR_Codes/" + "img_ext.jpg");
+                }                
+
                 image = System.Drawing.Image.FromStream(new MemoryStream(File.ReadAllBytes(qrCodePath)));
 
                 using (Bitmap bitMap = new Bitmap(image))
