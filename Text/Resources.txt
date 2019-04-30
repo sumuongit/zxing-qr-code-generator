@@ -1,0 +1,14 @@
+
+1. ZXing.Net
+http://zxingnet.codeplex.com/
+http://www.nuget.org/packages/ZXing.Net
+
+2. MessagingToolkit.QRCode
+https://www.nuget.org/packages/MessagingToolkit.QRCode/
+
+
+___UI
+http://azonmedia.com/qrcode-generator
+http://www.thonky.com/qr-code-tutorial/character-capacities/
+- new fields: Version, Mode
+

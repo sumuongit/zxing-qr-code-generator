@@ -1,0 +1,208 @@
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\obj\Debug\SecureQRCodeWeb.csprojResolveAssemblyReference.cache
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Antlr3.Runtime.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\AspNet.ScriptManager.bootstrap.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\AspNet.ScriptManager.jQuery.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Barcode.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Common.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\EntityFramework.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\EntityFramework.SqlServer.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.Owin.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.Owin.Security.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.Owin.Security.Google.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.ScriptManager.WebForms.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.Web.Infrastructure.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Newtonsoft.Json.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Owin.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\System.Web.Optimization.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\System.Web.Providers.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\WebGrease.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Barcode.pdb
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Common.pdb
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\System.Web.Optimization.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\ThoughtWorks.QRCode.pdb
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Antlr3.Runtime.pdb
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Newtonsoft.Json.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\EntityFramework.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\EntityFramework.SqlServer.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.Owin.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.Owin.Security.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.Owin.Security.Google.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\System.Net.Http.Formatting.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\System.Web.Http.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\System.Web.Http.WebHost.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\System.Net.Http.Formatting.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\System.Web.Http.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\System.Web.Http.WebHost.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\zxing.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\zxing.presentation.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\zxing.pdb
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\zxing.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\zxing.presentation.pdb
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\zxing.presentation.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\SecureQRCodeWeb.dll.config
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\SecureQRCodeWeb.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\bin\SecureQRCodeWeb.pdb
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\obj\Debug\SecureQRCodeWeb.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\BC.WebForm\obj\Debug\SecureQRCodeWeb.pdb
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\SecureQRCodeWeb.dll.config
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\SecureQRCodeWeb.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\SecureQRCodeWeb.pdb
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Antlr3.Runtime.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\AspNet.ScriptManager.bootstrap.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\AspNet.ScriptManager.jQuery.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Common.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\EntityFramework.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\EntityFramework.SqlServer.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.ScriptManager.WebForms.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Newtonsoft.Json.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Owin.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\SecureQRCode.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\System.Net.Http.Formatting.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\System.Web.Http.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\System.Web.Http.WebHost.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\System.Web.Optimization.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\System.Web.Providers.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\WebGrease.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\zxing.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\zxing.presentation.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Common.pdb
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\SecureQRCode.pdb
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\System.Net.Http.Formatting.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\System.Web.Http.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\System.Web.Http.WebHost.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\System.Web.Optimization.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Antlr3.Runtime.pdb
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Newtonsoft.Json.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\zxing.pdb
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\zxing.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\zxing.presentation.pdb
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\zxing.presentation.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\EntityFramework.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\EntityFramework.SqlServer.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\obj\Debug\SecureQRCodeWeb.csprojResolveAssemblyReference.cache
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\obj\Debug\SecureQRCodeWeb.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\obj\Debug\SecureQRCodeWeb.pdb
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\AForge.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\AForge.Video.DirectShow.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\AForge.Video.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\AForge.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\AForge.Video.xml
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\AForge.Video.DirectShow.xml
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\SecureQRCodeWeb.dll.config
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\SecureQRCodeWeb.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\SecureQRCodeWeb.pdb
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\AForge.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\AForge.Video.DirectShow.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\AForge.Video.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Antlr3.Runtime.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Common.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\EntityFramework.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Newtonsoft.Json.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Owin.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\SecureQRCode.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\System.Web.Http.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\System.Web.Optimization.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\System.Web.Providers.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\WebGrease.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Common.pdb
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\SecureQRCode.pdb
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\AForge.xml
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\AForge.Video.xml
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\AForge.Video.DirectShow.xml
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\System.Web.Http.xml
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\System.Web.Optimization.xml
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Newtonsoft.Json.xml
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\EntityFramework.xml
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.xml
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\obj\Debug\SecureQRCodeWeb.csprojResolveAssemblyReference.cache
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\obj\Debug\SecureQRCodeWeb.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\UI\SecureQRCodeWeb\obj\Debug\SecureQRCodeWeb.pdb

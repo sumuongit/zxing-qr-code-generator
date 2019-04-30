@@ -1,0 +1,195 @@
+﻿body {
+}
+
+table.QRCodeTable{
+  border-collapse:collapse;
+  left: 0;
+  right: 0;
+  margin:0 auto;
+  width: 850px;
+  height: auto;
+  background: #c5c5c5; 
+ 
+}
+table.DownloadTable{
+  border-collapse:collapse;
+  left: 0;
+  right: 0;
+  margin:0 auto;
+  width: 400px;
+  height: auto; 
+}
+table tr td.DownloadAppearance{    
+    text-align:center;    
+}
+.Title{
+  left: 0;
+  right: 0;
+  margin:0 auto;
+  width: 400px;
+  color:#FF8C00;
+  padding:10px;  
+}
+
+.SubTitle{
+    color:#FF8C00;
+    font-size:12px;
+    font-family:Tahoma;
+    font-weight:bold;
+}
+
+table tr td.QRCodeContentLeft{    
+    vertical-align:top;    
+    text-align:right;
+    font-size:12px;
+    font-family:Tahoma;   
+}
+table tr td.QRCodeContentRight{    
+    font-size:12px;
+    font-family:Tahoma;
+    text-align:left;    
+}
+table tr td.QRCodeAppearance{    
+    vertical-align:top;     
+}
+.TextBoxStyle{
+    border:1px solid black;
+    border-width:thin;
+    text-align:left;
+    width:150px;    
+}
+.TextBoxStyleQRVerify{
+    border:1px solid black;
+    border-width:thin;
+    text-align:left;
+    width:300px;    
+    height:30px;
+}
+.MultilineTextBoxStyle{
+    border:1px solid black;
+    border-width:thin;
+    text-align:left;      
+}
+.DropDownListStyle{
+    width:150px;
+    border:1px solid black;
+}
+.ImageStyle{
+    width:200px;
+    height:200px;
+    border:1px solid black;
+}
+div.ImageStyleQRVerify{
+    position:relative;
+    width:280px;
+    height:280px;  
+    margin:20px auto 30px 10px;
+    /*border:1px solid #000000;*/
+    background-color:#000000;
+}
+div.ImageStyleQRVerify:before{
+    display:block;
+    content:"";   
+    width:40px;
+    height:40px;
+    position:absolute;
+    top:-10px;
+    left:-10px;
+    border-top:6px solid #000000;
+    border-left:6px solid #000000;
+}
+div.ImageStyleQRVerify:after{
+    display:block;
+    content:"";   
+    width:40px;
+    height:40px;
+    position:absolute;
+    top:-10px;
+    right:-10px;
+    border-top:6px solid #000000;
+    border-right:6px solid #000000;
+}
+span.ImageStyleQRVerify:before{
+    display:block;
+    content:"";   
+    width:40px;
+    height:40px;
+    position:absolute;
+    bottom:-10px;
+    left:-10px;
+    border-bottom:6px solid #000000;
+    border-left:6px solid #000000;
+}
+span.ImageStyleQRVerify:after{
+    display:block;
+    content:"";   
+    width:40px;
+    height:40px;
+    position:absolute;
+    bottom:-10px;
+    right:-10px;
+    border-bottom:6px solid #000000;
+    border-right:6px solid #000000;
+}
+.ButtonStyle{    
+    border:1px solid black;
+    background-color:#87CEFA;
+    height:30px;
+    width:200px;   
+}
+.ButtonStyleQRVerify{    
+    border:1px solid black;
+    background-color:#87CEFA;
+    height:30px;
+    width:280px;   
+}
+.ButtonStyle_Read{
+    border:1px solid black;
+    background-color:#87CEFA;
+    height:30px;
+    width:300px; 
+}
+.DivStyle{  
+    position:relative;
+    width:400px;
+    padding:20px;
+}
+.CollapsibleDivStyle {
+    height:auto; /*!important;*/ 
+    padding:10px; /*!important;*/  
+}
+h3{
+    /*color:#87CEFA !important;*/
+    font-weight:bold; /*!important;*/
+    font-size:12px; /*!important;*/
+    font-family:Tahoma; /*!important;*/
+}
+.CollapsibleContainerDivStyle{  
+    padding-left:10px; /*!important;*/
+    position:relative; /*!important;*/
+    width:400px; /*!important;*/
+    padding:20px;
+}
+.ErrorStyle{
+    color:red;
+}
+.TextBoxStyle_FU{
+    border:1px solid black;
+    border-width:thin;
+    text-align:left;
+    width:150px;    
+}
+.ButtonStyle_FU{    
+    /*border:1px solid black;
+    background-color:#87CEFA;*/
+    height:30px;
+    width:auto;   
+}
+.Required{
+    color:red;
+    font-style:italic;
+    padding-left:10px;
+    font-size:12px;
+    font-family:Tahoma;
+}
+

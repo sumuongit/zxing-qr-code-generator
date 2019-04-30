@@ -1,0 +1,15 @@
+D:\pj_test\Barcode\Library\Barcode\bin\Debug\Barcode.dll
+D:\pj_test\Barcode\Library\Barcode\bin\Debug\Barcode.pdb
+D:\pj_test\Barcode\Library\Barcode\obj\Debug\Barcode.csprojResolveAssemblyReference.cache
+D:\pj_test\Barcode\Library\Barcode\obj\Debug\Barcode.dll
+D:\pj_test\Barcode\Library\Barcode\obj\Debug\Barcode.pdb
+D:\Projects\Barcode\Library\Barcode\bin\Debug\Barcode.dll
+D:\Projects\Barcode\Library\Barcode\bin\Debug\Barcode.pdb
+D:\Projects\Barcode\Library\Barcode\obj\Debug\Barcode.dll
+D:\Projects\Barcode\Library\Barcode\obj\Debug\Barcode.pdb
+D:\Projects\Barcode\Library\Barcode\obj\Debug\Barcode.csprojResolveAssemblyReference.cache
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\Library\Barcode\bin\Debug\Barcode.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\Library\Barcode\bin\Debug\Barcode.pdb
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\Library\Barcode\obj\Debug\Barcode.csprojResolveAssemblyReference.cache
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\Library\Barcode\obj\Debug\Barcode.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\Library\Barcode\obj\Debug\Barcode.pdb

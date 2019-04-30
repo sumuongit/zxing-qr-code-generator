@@ -1,0 +1,15 @@
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\Library\Barcode\bin\Debug\Barcode.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\Library\Barcode\bin\Debug\Barcode.pdb
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\Library\Barcode\obj\Debug\Barcode.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\Library\Barcode\obj\Debug\Barcode.pdb
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\Library\Barcode\obj\Debug\SecureQRCode.csprojResolveAssemblyReference.cache
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\Library\SecureQRCode\bin\Debug\SecureQRCode.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\Library\SecureQRCode\bin\Debug\SecureQRCode.pdb
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\Library\SecureQRCode\obj\Debug\SecureQRCode.csprojResolveAssemblyReference.cache
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\Library\SecureQRCode\obj\Debug\SecureQRCode.dll
+D:\CSharp_DotNet_QRCode_Application\CSharp_DotNet_QRCode_Application\Library\SecureQRCode\obj\Debug\SecureQRCode.pdb
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\Library\SecureQRCode\bin\Debug\SecureQRCode.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\Library\SecureQRCode\bin\Debug\SecureQRCode.pdb
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\Library\SecureQRCode\obj\Debug\SecureQRCode.csprojResolveAssemblyReference.cache
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\Library\SecureQRCode\obj\Debug\SecureQRCode.dll
+C:\Users\Sumon\Downloads\Secure QR Code System_15-05-2017\CSharp_DotNet_QRCode_Application\Library\SecureQRCode\obj\Debug\SecureQRCode.pdb

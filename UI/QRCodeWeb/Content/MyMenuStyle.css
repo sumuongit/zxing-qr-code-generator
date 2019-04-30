@@ -1,0 +1,39 @@
+﻿body {
+}
+#nav {
+    /*float: left;
+    width: 280px;*/
+    border-top: 1px solid #999;
+    border-right: 1px solid #999;
+    border-left: 1px solid #999;
+    border-bottom: 1px solid #999;   
+    padding:0;
+}
+#nav li a {
+    display: block;
+    /*padding: 10px 15px;*/
+    padding: 5px 10px;
+    background: #ccc;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #999;
+    text-decoration: none;
+    color: #000;
+}
+#nav li a:hover, #nav li a.active {
+    background: #999;
+    color: #fff;
+}
+#nav li ul {
+    display: none; /* used to hide sub-menus*/
+    list-style-type:none;
+}
+#nav li {
+     /* used to hide sub-menus*/
+    list-style-type:none;
+}
+
+#nav li ul li a {
+    /*padding: 10px 25px;*/
+    background: #ececec;
+    border-bottom: 1px dotted #ccc;
+}

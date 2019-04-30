@@ -1,0 +1,106 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{00D9F51F-1908-4897-A1C1-264DDC7A7A6F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Library", "Library", "{9CF8B696-6C5B-43E0-946D-F575E26C2F16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Library\Common\Common.csproj", "{865B7A69-3533-4640-A1AF-4C7882E78C6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "com", "com", "{5A7F54E3-B0BD-4643-92D7-FAEE25E67DCD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "google", "google", "{3A5FC1E1-EA26-41E8-8164-5284ADBE50C1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "zxing", "zxing", "{540BB605-5066-460E-ACCA-786DA0E622E9}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\AssemblyInfo.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\AssemblyInfo.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\BarcodeFormat.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\BarcodeFormat.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\Binarizer.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\Binarizer.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\BinaryBitmap.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\BinaryBitmap.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\DecodeHintType.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\DecodeHintType.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\EncodeHintType.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\EncodeHintType.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\LuminanceSource.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\LuminanceSource.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\MultiFormatReader.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\MultiFormatReader.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\MultiFormatWriter.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\MultiFormatWriter.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\Reader.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\Reader.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\ReaderException.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\ReaderException.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\Result.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\Result.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\ResultMetadataType.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\ResultMetadataType.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\ResultPoint.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\ResultPoint.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\ResultPointCallback.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\ResultPointCallback.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\RGBLuminanceSource.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\RGBLuminanceSource.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\SupportClass.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\SupportClass.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\Writer.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\Writer.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\WriterException.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\WriterException.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "qrcode", "qrcode", "{934F6693-0BE4-437D-B970-85496280532E}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\qrcode\QRCodeReader.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\qrcode\QRCodeReader.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\qrcode\QRCodeWriter.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\qrcode\QRCodeWriter.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "common", "common", "{83261466-32DE-4703-8D2F-0CCF659ECEA2}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\BitArray.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\BitArray.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\BitMatrix.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\BitMatrix.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\BitSource.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\BitSource.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\ByteArray.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\ByteArray.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\ByteMatrix.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\ByteMatrix.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\CharacterSetECI.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\CharacterSetECI.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\Collections.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\Collections.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\Comparator.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\Comparator.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\DecoderResult.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\DecoderResult.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\DefaultGridSampler.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\DefaultGridSampler.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\DetectorResult.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\DetectorResult.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\ECI.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\ECI.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\GlobalHistogramBinarizer.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\GlobalHistogramBinarizer.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\GridSampler.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\GridSampler.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\HybridBinarizer.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\HybridBinarizer.cs
+		..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\PerspectiveTransform.cs = ..\..\..\..\Faroque\Desktop\BillGate\ZXing-2.1\zxing-2.1\csharp\common\PerspectiveTransform.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Text", "Text", "{EE90DDFA-8650-4AFE-9E4A-F478274D464A}"
+	ProjectSection(SolutionItems) = preProject
+		Text\Resources.txt = Text\Resources.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCode", "Library\QRCode\QRCode.csproj", "{A2A7EFF1-4B85-4BF5-8762-ACE247A4F57E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCodeWeb", "UI\QRCodeWeb\QRCodeWeb.csproj", "{74F2DD8B-61E6-49E6-B931-81B9E7D01847}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{865B7A69-3533-4640-A1AF-4C7882E78C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865B7A69-3533-4640-A1AF-4C7882E78C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865B7A69-3533-4640-A1AF-4C7882E78C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865B7A69-3533-4640-A1AF-4C7882E78C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2A7EFF1-4B85-4BF5-8762-ACE247A4F57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A7EFF1-4B85-4BF5-8762-ACE247A4F57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A7EFF1-4B85-4BF5-8762-ACE247A4F57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A7EFF1-4B85-4BF5-8762-ACE247A4F57E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74F2DD8B-61E6-49E6-B931-81B9E7D01847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F2DD8B-61E6-49E6-B931-81B9E7D01847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F2DD8B-61E6-49E6-B931-81B9E7D01847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F2DD8B-61E6-49E6-B931-81B9E7D01847}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{74F2DD8B-61E6-49E6-B931-81B9E7D01847} = {00D9F51F-1908-4897-A1C1-264DDC7A7A6F}
+		{865B7A69-3533-4640-A1AF-4C7882E78C6C} = {9CF8B696-6C5B-43E0-946D-F575E26C2F16}
+		{5A7F54E3-B0BD-4643-92D7-FAEE25E67DCD} = {9CF8B696-6C5B-43E0-946D-F575E26C2F16}
+		{A2A7EFF1-4B85-4BF5-8762-ACE247A4F57E} = {9CF8B696-6C5B-43E0-946D-F575E26C2F16}
+		{3A5FC1E1-EA26-41E8-8164-5284ADBE50C1} = {5A7F54E3-B0BD-4643-92D7-FAEE25E67DCD}
+		{540BB605-5066-460E-ACCA-786DA0E622E9} = {3A5FC1E1-EA26-41E8-8164-5284ADBE50C1}
+		{934F6693-0BE4-437D-B970-85496280532E} = {540BB605-5066-460E-ACCA-786DA0E622E9}
+		{83261466-32DE-4703-8D2F-0CCF659ECEA2} = {540BB605-5066-460E-ACCA-786DA0E622E9}
+	EndGlobalSection
+EndGlobal
