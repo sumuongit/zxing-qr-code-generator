@@ -7,6 +7,14 @@
 ## General info
 A sample QR code generator (creating QR code with color and embedded logo) using ZXing QR code library
 
+In the following figures you can see that the QR code generator generates a colorful QR code with embedded logo/image and then the QR code decoder decodes the QR code as expected.
+
+**QR Code Generator:**
+![QR Code Generator](https://github.com/sumuongit/zxing-qr-code-generator/blob/master/UI/QRCodeWeb/Images/QR-Code-Generator.PNG)
+
+**QR Code Decoder:**
+![QR Code Decoder](https://github.com/sumuongit/zxing-qr-code-generator/blob/master/UI/QRCodeWeb/Images/QR-Code-Decoder.PNG)
+
 ## Technologies
 This application is created with:
 * Visual Studio 2013
