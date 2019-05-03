@@ -1,5 +1,6 @@
 ## Table of contents
 * [General info](#general-info)
+* [QR Code Images](#qr-code-images)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [License](#license)
@@ -14,6 +15,10 @@ In the following figures you can see that the QR code generator generates a colo
 
 **QR Code Decoder:**
 ![QR Code Decoder](https://github.com/sumuongit/zxing-qr-code-generator/blob/master/UI/QRCodeWeb/Images/QR-Code-Decoder.PNG)
+
+## QR Code Images
+QR code are generated in the following path
+[QR Code Images](https://github.com/sumuongit/zxing-qr-code-generator/tree/master/UI/QRCodeWeb/Images/QR_Codes)
 
 ## Technologies
 This application is created with:
