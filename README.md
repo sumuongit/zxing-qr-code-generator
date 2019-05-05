@@ -27,7 +27,6 @@ This application is created with:
 * C# 
 * ASP.NET MVC 5
 * ZXing QR Code Library
-* JavaScript
 	
 ## Setup
 To run this application, building the source locally using git:
