@@ -1,4 +1,4 @@
-## Table of contents
+## Table of Contents
 * [General Info](#general-info)
 * [QR Code Images](#qr-code-images)
 * [Technologies](#technologies)
