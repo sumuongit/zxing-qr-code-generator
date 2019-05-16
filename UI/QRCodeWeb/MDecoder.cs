@@ -1,15 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Drawing;
-
 using System.Diagnostics;
-
-using com.google.zxing.qrcode;
 using com.google.zxing;
 using com.google.zxing.common;
-using com.google.zxing.qrcode.decoder;
 using com.google.zxing.qrcode.detector;
 
 namespace SecureQRCodeWeb
