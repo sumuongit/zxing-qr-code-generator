@@ -189,7 +189,6 @@
     <Content Include="Download.aspx" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Images\buet_logo.jpg" />
-    <Content Include="Images\Logos\hp.png" />
     <Content Include="Images\QR-Code-Decoder.PNG" />
     <Content Include="Images\QR-Code-Generator.PNG" />
     <Content Include="Images\QR_Codes\default_image.png" />
@@ -218,7 +217,6 @@
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
-    <Content Include="Scripts\webcam.js" />
     <Content Include="Scripts\WebForms\DetailsView.js" />
     <Content Include="Scripts\WebForms\Focus.js" />
     <Content Include="Scripts\WebForms\GridView.js" />
@@ -273,7 +271,6 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="HttpExtensions.cs" />
-    <Compile Include="MDecoder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="QRCodeDecoder.aspx.cs">
       <DependentUpon>QRCodeDecoder.aspx</DependentUpon>
@@ -314,6 +311,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Images\Logos\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>

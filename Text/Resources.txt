@@ -6,9 +6,6 @@ http://www.nuget.org/packages/ZXing.Net
 2. MessagingToolkit.QRCode
 https://www.nuget.org/packages/MessagingToolkit.QRCode/
 
-
-___UI
-http://azonmedia.com/qrcode-generator
+3. Character Capacities by Version, Mode, and Error Correction
 http://www.thonky.com/qr-code-tutorial/character-capacities/
-- new fields: Version, Mode
 
