@@ -29,10 +29,13 @@ This application is created with:
 * ZXing QR Code Library
 	
 ## Setup
-To run this application, building the source locally using git:
+To clone and run this repository you will need [Git](https://git-scm.com/) installed on your computer. From your command line:
 
 ```
+# Clone this repository
 $ git clone https://github.com/sumuongit/zxing-qr-code-generator.git
+# Go into the repository
+$ cd zxing-qr-code-generator
 ```
 
 ## Contributing
