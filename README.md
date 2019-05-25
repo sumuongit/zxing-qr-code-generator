@@ -25,7 +25,7 @@ QR code are generated in the following path
 This application is created with:
 * Visual Studio 2013
 * C# 
-* ASP.NET MVC 5
+* ASP.NET
 * ZXing QR Code Library
 	
 ## Setup
