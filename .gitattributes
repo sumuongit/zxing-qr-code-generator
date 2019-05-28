@@ -1,2 +1,4 @@
+# Exclude the following files or folders from language statistics
 UI/QRCodeWeb/Content/* linguist-vendored
 UI/QRCodeWeb/Scripts/* linguist-vendored
+Library/Common/* linguist-vendored
