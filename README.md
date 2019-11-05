@@ -1,5 +1,6 @@
 ## Table of Contents
 * [General Info](#general-info)
+* [Features](#features)
 * [QR Code Images](#qr-code-images)
 * [Technologies](#technologies)
 * [Setup](#setup)
@@ -16,6 +17,12 @@ In the following figures you can see that the QR code generator generates a colo
 
 **QR Code Decoder:**
 ![QR Code Decoder](https://github.com/sumuongit/zxing-qr-code-generator/blob/master/UI/QRCodeWeb/Images/QR-Code-Decoder.PNG)
+
+## Features
+* QR Code Generator
+* QR Code with Logo Inside
+* Color QR Code
+* QR Code Decoder
 
 ## QR Code Images
 QR code are generated in the following path
