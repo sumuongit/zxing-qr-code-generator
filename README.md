@@ -8,7 +8,7 @@
 * [License](#license)
 
 ## General Info
-A sample QR code generator (creating QR code with color and embedded logo) using ZXing QR code library
+A QR code generator (creating a QR code with color and embedded logo as optional; also, decoding the encoded QR code) using ZXing QR code .NET open source library with ASP.NET
 
 In the following figures you can see that the QR code generator generates a colorful QR code with embedded logo/image and then the QR code decoder decodes the QR code as expected.
 
